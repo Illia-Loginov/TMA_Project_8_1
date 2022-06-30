@@ -1,0 +1,15 @@
+{
+  "name": "tma_project_8_1",
+  "version": "1.0.0",
+  "description": "TechMagic Academy Node.js Take-home project",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Illia Loginov",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "yaml": "^2.1.1"
+  }
+}
